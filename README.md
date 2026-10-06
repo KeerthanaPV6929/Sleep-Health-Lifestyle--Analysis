@@ -42,11 +42,11 @@ The dashboard has 3 pages:
 
 ### 🖼️ Screenshots
 
-> Dashboard screenshots are saved in the [`/Screenshots`](./Screenshots) folder of this repository.
+> Dashboard screenshots are saved in the [`/Screenshots`](./Screenshot) folder of this repository.
 
 | Overview | Sleep vs. Lifestyle | Health Indicators |
 |---|---|---|
-| ![Overview](./Screenshots/dashboard_overview.png) | ![Sleep vs Lifestyle](./Screenshots/dashboard_sleep_vs_lifestyle.png) | ![Health Indicators](./Screenshots/dashboard_health_indicators.png) |
+| ![Overview](./Screenshot/dashboard_overview.png) | ![Sleep vs Lifestyle](./Screenshot/dashboard_sleep_vs_lifestyle.png) | ![Health Indicators](./Screenshot/dashboard_health_indicators.png) |
 
 *(Rename the files in `/Screenshots` to match the names above, or update the paths in this README to match your actual filenames.)*
 
