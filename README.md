@@ -42,7 +42,7 @@ The dashboard has 3 pages:
 
 ### 🖼️ Screenshots
 
-> Dashboard screenshots are saved in the [`/Screenshots`](./Screenshot) folder of this repository.
+> Dashboard screenshots are saved in the [`/Screenshot`](./Screenshot) folder of this repository.
 
 | Overview | Sleep vs. Lifestyle | Health Indicators |
 |---|---|---|
