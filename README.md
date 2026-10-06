@@ -84,10 +84,4 @@ Lifestyle factors — particularly stress and weight — have a measurable, sign
 - **Dataset:** [Kaggle — Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 - **Visualization:** Microsoft Power BI
 
-## 👤 Author
 
-**Keerthana PV**
-
----
-
-⭐ If you found this project useful, feel free to star the repo!
